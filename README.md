@@ -1,3 +1,3 @@
-### Blog Application
+### Blog
 
 https://blogzom.herokuapp.com
